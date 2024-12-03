@@ -1,0 +1,91 @@
+body{  background-color: black;
+    background-image: url(../../wallpapers/227fd13f333644d94ef6e667bff7fdea.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    margin: 0;
+   
+.section{
+    border: 3px solid rgb(149, 2, 2);
+    background-color: black;
+    opacity:  0.1px;
+    border-radius: 50px;
+    display: inline-block;
+    width: 300px;
+    border-radius: 10px;
+    text-align: center;
+    font-family:  Arial, Helvetica, sans-serif;
+    color: rgb(234, 234, 227);
+    margin-top: 200px;
+   
+}
+    
+}
+.forgot{
+    font-size: small;
+    width: 100px;
+    margin-right: 20px;
+    margin-left: 180px;
+    border-bottom: 2px solid rgb(149, 2, 2);
+    
+     
+}
+
+.button{
+ border: 3px solid rgb(149, 2, 2);
+border-radius: 9rem;
+margin-top: 1.2rem;
+margin-bottom: 0.6rem;
+padding: 8px 8px 8px 8px;
+}
+
+.button:hover{
+    color: rgb(149, 2, 2);
+    cursor: pointer;
+    box-shadow: 0 2px rgb(149, 2, 2);
+    color: azure;
+    transform: translate(3px);
+}
+.button:active{
+    color: aliceblue;
+    background-color: rgb(149, 2, 2);
+}
+.input{
+    border: none;
+    background-color: black;
+
+}
+
+.login{
+    color: red;
+    font-family: fantasy;
+}
+
+.email {
+    margin-top: 8px;
+    margin-bottom: 8px;
+ border-top: 0;
+ 
+}
+    .name{
+        margin-top: 8px;
+        margin-bottom: 8px;
+    }
+    .password{
+        margin-top: 8px;
+        margin-bottom: 20px;
+    }
+    .number{
+        margin-top: 8px;
+        margin-bottom: 50px;
+    }
+    .fd{
+        height: 1.5rem;
+        width: 5.5rem;
+        border-color: red;
+        margin-left: 4rem;
+    }
+            
